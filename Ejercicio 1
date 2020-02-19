@@ -1,0 +1,18 @@
+<p>Lista de nombres:</p>
+ <ul>
+    <li>Alberto</li>
+    <li>Jesus</li>
+    <li>Carolina</li>
+    <li>Miriam</li>
+ </ul>
+
+ p {
+  background-color: rosa claro;
+  color: negro;
+  }
+
+ li {
+   background-color: rosa claro;
+   color: negro;
+ }
+
