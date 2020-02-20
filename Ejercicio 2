@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Venta de coches</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <h1>todo tipo de coches</h1>
+    <p>a los mejores precios</p>
+  </body>
+</html>
+
+h1 {
+  color: black;
+  background-color: red;
+  border: 1px solid blue;
+}
+p {
+  color: yellow;
+}
+
+!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Venta de coches</title>
+    <style>
+      h1 {
+        color: black;
+        background-color: red;
+        border: 1px solid blue;
+      }
+      p {
+        color: yellow;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>todo tipo de coches</h1>
+    <p>a los mejores precios</p>
+  </body>
+  </html>
+
+  <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Venta de coches</title>
+  </head>
+  <body>
+    <h1 style="color: black;background-color: red;border: 1px solid blue;">todo tipo de coches</h1>
+    <p style="color:yellow;">a los mejores precio inline</p>
+  </body>
+</html>
